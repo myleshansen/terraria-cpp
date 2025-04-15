@@ -1,0 +1,15 @@
+# ninja log v6
+8	1465	1744752745567284362	CMakeFiles/terraria_cpp.dir/src/main.cpp.o	9616a320da4a79c1
+3	495	1744752758359264880	build.ninja	c2b88e272e953f6a
+10	1558	1744746837742882745	CMakeFiles/terraria_cpp.dir/main.cpp.o	fd5c95a01ad7bf2a
+1517	1595	1744752314372834390	terraria_cpp	7877f0591096a2cc
+9	134	1744752762471634859	CMakeFiles/terraria_cpp.dir/src/glad.c.o	a1e6ef36aa076ebc
+8	1366	1744752762471186357	CMakeFiles/terraria_cpp.dir/src/main.cpp.o	9616a320da4a79c1
+1366	1446	1744752763828880657	terraria_cpp	723d900a302e903e
+12	486	1744752883459729574	CMakeFiles/terraria_cpp.dir/src/glad.c.o	a1e6ef36aa076ebc
+10	121	1744752891125296077	CMakeFiles/terraria_cpp.dir/src/glad.c.o	a1e6ef36aa076ebc
+9	1372	1744752891124808029	CMakeFiles/terraria_cpp.dir/src/main.cpp.o	9616a320da4a79c1
+1372	1602	1744752892487582382	terraria_cpp	723d900a302e903e
+17	214	1744753050784779454	CMakeFiles/terraria_cpp.dir/src/glad.c.o	a1e6ef36aa076ebc
+15	1629	1744753050782339272	CMakeFiles/terraria_cpp.dir/src/main.cpp.o	9616a320da4a79c1
+1629	1713	1744753052396879732	terraria_cpp	723d900a302e903e
