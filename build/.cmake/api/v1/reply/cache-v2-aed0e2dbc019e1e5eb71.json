@@ -1078,6 +1078,18 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_GLFW3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding GLFW3"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[C:/dev/glfw/lib-vc2022/glfw3.lib][C:/dev/glfw/include][v()]"
+		},
+		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenGL",
 			"properties" : 
 			[
@@ -1088,6 +1100,30 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "[opengl32][c ][v()]"
+		},
+		{
+			"name" : "GLFW3_INCLUDE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/dev/glfw/include"
+		},
+		{
+			"name" : "GLFW3_LIBRARY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/dev/glfw/lib-vc2022/glfw3.lib"
 		},
 		{
 			"name" : "OPENGL_gl_LIBRARY",
@@ -1120,6 +1156,18 @@
 			],
 			"type" : "STRING",
 			"value" : "glu32"
+		},
+		{
+			"name" : "glfw3_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for glfw3."
+				}
+			],
+			"type" : "PATH",
+			"value" : "glfw3_DIR-NOTFOUND"
 		},
 		{
 			"name" : "terraria_cpp_BINARY_DIR",

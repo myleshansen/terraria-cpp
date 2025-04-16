@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.5.0"
+						"string" : "3.26.0"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -43,21 +43,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-f1deb0ff01928fc78d31.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-469c8fada2b7ef2d1696.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Debug-5c2a9aaa7a29aaaeab6b.json",
+					"jsonFile" : "target-ZERO_CHECK-Debug-6ca00413273d0cec8338.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "terraria_cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-terraria_cpp-Debug-f845ca1d1155eb433361.json",
+					"jsonFile" : "target-terraria_cpp-Debug-ccf111a7428af7ef4f0f.json",
 					"name" : "terraria_cpp",
 					"projectIndex" : 0
 				}
@@ -71,7 +71,7 @@
 					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.5.0"
+						"string" : "3.26.0"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -105,21 +105,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-f1deb0ff01928fc78d31.json",
+					"jsonFile" : "target-ALL_BUILD-Release-469c8fada2b7ef2d1696.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Release-5c2a9aaa7a29aaaeab6b.json",
+					"jsonFile" : "target-ZERO_CHECK-Release-6ca00413273d0cec8338.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "terraria_cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-terraria_cpp-Release-33a28401f3f5add99801.json",
+					"jsonFile" : "target-terraria_cpp-Release-aa10b6339d3f790d84fe.json",
 					"name" : "terraria_cpp",
 					"projectIndex" : 0
 				}
@@ -133,7 +133,7 @@
 					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.5.0"
+						"string" : "3.26.0"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -167,21 +167,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-f1deb0ff01928fc78d31.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-469c8fada2b7ef2d1696.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-5c2a9aaa7a29aaaeab6b.json",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-6ca00413273d0cec8338.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "terraria_cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-terraria_cpp-MinSizeRel-3c4786913dd821b92e4d.json",
+					"jsonFile" : "target-terraria_cpp-MinSizeRel-7eefe9b5c948081a8c0b.json",
 					"name" : "terraria_cpp",
 					"projectIndex" : 0
 				}
@@ -195,7 +195,7 @@
 					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.5.0"
+						"string" : "3.26.0"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -229,21 +229,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-f1deb0ff01928fc78d31.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-469c8fada2b7ef2d1696.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-5c2a9aaa7a29aaaeab6b.json",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-6ca00413273d0cec8338.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "terraria_cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-terraria_cpp-RelWithDebInfo-7f54675237e0dd033615.json",
+					"jsonFile" : "target-terraria_cpp-RelWithDebInfo-218d7302b1445d42113a.json",
 					"name" : "terraria_cpp",
 					"projectIndex" : 0
 				}
