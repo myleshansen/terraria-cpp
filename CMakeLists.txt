@@ -5,7 +5,10 @@ cmake_policy(SET CMP0072 NEW) # For CMake 3.26 and above, to allow using find_pa
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
+if(WIN32)
+    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
+endif()
+
 find_package(OpenGL REQUIRED)
 find_package(glfw3 REQUIRED)
 
@@ -17,4 +20,11 @@ add_executable(terraria_cpp
 
 target_include_directories(terraria_cpp PRIVATE dependencies)
 
-target_link_libraries(terraria_cpp ${GLFW3_LIBRARY} OpenGL::GL)
+if(WIN32)
+    target_link_libraries(terraria_cpp ${GLFW3_LIBRARY} OpenGL::GL)
+endif()
+
+if(APPLE)
+    target_link_libraries(terraria_cpp glfw OpenGL::GL)
+endif()
+
